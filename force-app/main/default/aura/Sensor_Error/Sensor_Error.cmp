@@ -1,0 +1,17 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" controller="SensorController">
+	<lightning:empApi aura:id="empApi" />
+    
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
+    
+    <aura:attribute name="subscription" type="Map" />
+    <aura:attribute name="channel" type="string" default="/event/Sensor__e" />
+    
+    <aura:attribute name="visible" type="boolean" default="false" />
+    
+    <aura:if isTrue="{!v.visible == true}">
+    	
+    	<lightning:button label="Power is Normal!" onclick="{! c.onNormal }" />
+        
+    </aura:if>
+    
+</aura:component>
