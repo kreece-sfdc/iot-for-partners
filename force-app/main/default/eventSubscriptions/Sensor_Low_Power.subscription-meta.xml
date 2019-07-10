@@ -2,5 +2,5 @@
 <EventSubscription xmlns="http://soap.sforce.com/2006/04/metadata">
     <active>true</active>
     <eventType>Sensor__e</eventType>
-    <referenceData>Sensor_Low_Power_2</referenceData>
+    <referenceData>Sensor_Low_Power</referenceData>
 </EventSubscription>
