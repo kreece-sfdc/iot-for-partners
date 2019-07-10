@@ -1,0 +1,1097 @@
+[
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542970043969,
+            "changeTime": 1542970043969,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542970043969,
+            "changeTime": 1542970043969,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1542970043983,
+            "changeTime": 1542970043983,
+            "contentHash": "dbd1dd582d0df28e4f7ceecce69cc5cb74223995",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542970043969,
+            "changeTime": 1542970043969,
+            "contentHash": "e1f9be6af6dc40f40abf30b21f8355d6d77da305",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura/Sensor_Error",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura/Sensor_Error",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1542970043970,
+            "changeTime": 1542970043970,
+            "contentHash": "4b12b810ac569470e35e01e1db24feea86c132c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura/Sensor_Error/Sensor_Error.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura/Sensor_Error/Sensor_Error.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 630,
+            "modifiedTime": 1542970043969,
+            "changeTime": 1542970043969,
+            "contentHash": "f880f4d61a3f75fc96049ebb46e7d764267c2145",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura/Sensor_Error/Sensor_Error.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura/Sensor_Error/Sensor_Error.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1542970043970,
+            "changeTime": 1542970043970,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura/Sensor_Error/Sensor_ErrorController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura/Sensor_Error/Sensor_ErrorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 330,
+            "modifiedTime": 1542970043970,
+            "changeTime": 1542970043970,
+            "contentHash": "13d35d726e3b73be330f41eddca6e4826c160218",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura/Sensor_Error/Sensor_ErrorHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/aura/Sensor_Error/Sensor_ErrorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2894,
+            "modifiedTime": 1542970043970,
+            "changeTime": 1542970043970,
+            "contentHash": "e6c0a53c5567eb073d17bde96a3dbab70eb41a92",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1542970043971,
+            "changeTime": 1542970043971,
+            "contentHash": "961e929d3c1ba8a74b1b2a35501ff557349a35fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/classes/CreateTask.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/classes/CreateTask.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1021,
+            "modifiedTime": 1542970043970,
+            "changeTime": 1542970043970,
+            "contentHash": "d3c282a56264d879ca2af2fd390e4c79d1b48392",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/classes/CreateTask.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/classes/CreateTask.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542970043970,
+            "changeTime": 1542970043970,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/classes/SensorController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/classes/SensorController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 336,
+            "modifiedTime": 1542970043970,
+            "changeTime": 1542970043970,
+            "contentHash": "3bb0b998e46f487a5b6933eb7d332b47d82fb2a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/classes/SensorController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/classes/SensorController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542970043971,
+            "changeTime": 1542970043971,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventDeliveries",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventDeliveries",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542970043971,
+            "changeTime": 1542970043971,
+            "contentHash": "ddee87cf67ea5b1b6f004d6dc06c8a2f944d84aa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventDeliveries/Sensor_Low_Power_1.delivery-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventDeliveries/Sensor_Low_Power_1.delivery-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 363,
+            "modifiedTime": 1542970043971,
+            "changeTime": 1542970043971,
+            "contentHash": "745590a3ce2141046d902aa5bf8b09b373b31f47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventDeliveries/Sensor_Low_Power_2.delivery-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventDeliveries/Sensor_Low_Power_2.delivery-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 423,
+            "modifiedTime": 1542970043971,
+            "changeTime": 1542970043971,
+            "contentHash": "1aab4eaaefa14b01deb9fb30b7fa292b7d2e10fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventSubscriptions",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventSubscriptions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542970043972,
+            "changeTime": 1542970043972,
+            "contentHash": "931a686d63600a84d96985d0aec41583b6da698f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventSubscriptions/Sensor_Low_Power_1.subscription-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventSubscriptions/Sensor_Low_Power_1.subscription-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1542970043971,
+            "changeTime": 1542970043971,
+            "contentHash": "0c023e76139dc9a6ad6778e149dd48c9b6bb9157",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventSubscriptions/Sensor_Low_Power_2.subscription-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/eventSubscriptions/Sensor_Low_Power_2.subscription-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 245,
+            "modifiedTime": 1542970043972,
+            "changeTime": 1542970043972,
+            "contentHash": "376d128da6380ff5f7f4a0759c4968b6cbe6150d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542970043972,
+            "changeTime": 1542970043972,
+            "contentHash": "4386637ff8cc44393aa2b5bff58d140098dab2b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flexipages/Asset_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flexipages/Asset_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5794,
+            "modifiedTime": 1542970043972,
+            "changeTime": 1542970043972,
+            "contentHash": "dcff95437db5254f654d686e7a93eddf6aa024c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flexipages/Home_Page_Default.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flexipages/Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1611,
+            "modifiedTime": 1542970043972,
+            "changeTime": 1542970043972,
+            "contentHash": "603d702feeb8855ce96e4fe09783a0695c23298c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flows",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542970043973,
+            "changeTime": 1542970043973,
+            "contentHash": "3018d8f5c52128c2ddf4ddb54037cafc4accec68",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flows/IoTFlowSensor_Orchestration.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flows/IoTFlowSensor_Orchestration.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 271717,
+            "modifiedTime": 1542970043973,
+            "changeTime": 1542970043973,
+            "contentHash": "dc8540b459b08bb86620e362183a403ba5c51bd1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flows/Sensor_Low_Power.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/flows/Sensor_Low_Power.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18128,
+            "modifiedTime": 1542970043973,
+            "changeTime": 1542970043973,
+            "contentHash": "64a2cc1486ba018c9c97e84cff6f4be4f8c27c03",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/iot",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/iot",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1542970043974,
+            "changeTime": 1542970043974,
+            "contentHash": "b2544f741f18208df65a25b2abeffe6ac9250a78",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/iot/Sensor_Asset.orchestrationContext-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/iot/Sensor_Asset.orchestrationContext-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 698,
+            "modifiedTime": 1542970043974,
+            "changeTime": 1542970043974,
+            "contentHash": "c9138a65b5946f9b1be5ffe02be0ed29f1618bb2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/iot/Sensor_Orchestration.orchestration",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/iot/Sensor_Orchestration.orchestration",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2462,
+            "modifiedTime": 1542970043974,
+            "changeTime": 1542970043974,
+            "contentHash": "3bb86f2297b6003933198e6851778343fb61255f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/iot/Sensor_Orchestration.orchestration-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/iot/Sensor_Orchestration.orchestration-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 292,
+            "modifiedTime": 1542970043975,
+            "changeTime": 1542970043975,
+            "contentHash": "4e4fd0f8346fc47c9986c1f94830a3aacd3eb8f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542970043981,
+            "changeTime": 1542970043981,
+            "contentHash": "ff29ec560a2779ac53a6c14b8540b8a7f8bd3edc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542970043975,
+            "changeTime": 1542970043975,
+            "contentHash": "4bb0ccd94353f720cd3ab73d3b0c01faf9a3fc9e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/Asset.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/Asset.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3205,
+            "modifiedTime": 1542970043975,
+            "changeTime": 1542970043975,
+            "contentHash": "391a5db97d6a044dd70210ff438245891268e1f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 864,
+            "modifiedTime": 1542970043981,
+            "changeTime": 1542970043981,
+            "contentHash": "716eb0eed0181ff7f929c739fda3533860f7c52a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/AccountId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1542970043975,
+            "changeTime": 1542970043975,
+            "contentHash": "bbc48dd990ee01ea22e78922a8a9d027037450f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/AssetLevel.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/AssetLevel.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1542970043975,
+            "changeTime": 1542970043975,
+            "contentHash": "c8006018b2f84707ff6dbcc75435bd7519537a17",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/AssetProvidedById.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/AssetProvidedById.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1542970043976,
+            "changeTime": 1542970043976,
+            "contentHash": "b41ebf7a8c86bb6cd118d04af829754760a1a623",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/AssetServicedById.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/AssetServicedById.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1542970043976,
+            "changeTime": 1542970043976,
+            "contentHash": "34014667ca8f3e0b7120f84a3f660f8f1e0f0665",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/ContactId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/ContactId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1542970043976,
+            "changeTime": 1542970043976,
+            "contentHash": "e5e21afce504158de45579b86615f21617691873",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1542970043976,
+            "changeTime": 1542970043976,
+            "contentHash": "8d3cebabc9d84ca309618b2dfe41353e971ea861",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/InstallDate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/InstallDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1542970043977,
+            "changeTime": 1542970043977,
+            "contentHash": "013f35ee5b2fe64bbb3ec187385c253e37777e22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/IsCompetitorProduct.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/IsCompetitorProduct.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1542970043977,
+            "changeTime": 1542970043977,
+            "contentHash": "25a6c2c2ca271569b35430b7b2048892fe44a8f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/IsInternal.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/IsInternal.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1542970043977,
+            "changeTime": 1542970043977,
+            "contentHash": "0b6e8b09b94bae97bb5e5495aa2ae9030b8db1b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/LocationId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/LocationId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1542970043977,
+            "changeTime": 1542970043977,
+            "contentHash": "4b4f002be89e5369fed9bc01d056901d36c269a9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Name.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1542970043978,
+            "changeTime": 1542970043978,
+            "contentHash": "b5759a4781bf622ab9220d3571a379926922d3b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/OwnerId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 212,
+            "modifiedTime": 1542970043978,
+            "changeTime": 1542970043978,
+            "contentHash": "3ca51b7db67343442d0910383a1008e625f90db4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/ParentId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/ParentId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 213,
+            "modifiedTime": 1542970043978,
+            "changeTime": 1542970043978,
+            "contentHash": "10fe4637cbb91430eaf11b5b61eb12c212e1c625",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Price.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Price.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 186,
+            "modifiedTime": 1542970043978,
+            "changeTime": 1542970043978,
+            "contentHash": "64e698af68a6032e8c326a1cc38aeb35cc12da61",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Product2Id.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Product2Id.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1542970043978,
+            "changeTime": 1542970043978,
+            "contentHash": "68d8dbca87bc1619a21edd6f6829153ed2cf7cae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/ProductCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/ProductCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1542970043979,
+            "changeTime": 1542970043979,
+            "contentHash": "05d9f7db6d42a0f4e3e1c5f484603938c18e45de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/ProductDescription.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/ProductDescription.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 160,
+            "modifiedTime": 1542970043979,
+            "changeTime": 1542970043979,
+            "contentHash": "dfcc3188bc9d0d0a8e477bb013bac03d28065d1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/ProductFamily.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/ProductFamily.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 181,
+            "modifiedTime": 1542970043979,
+            "changeTime": 1542970043979,
+            "contentHash": "05c22e7296ec2173227b6688f991ccb74603d465",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/PurchaseDate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/PurchaseDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1542970043979,
+            "changeTime": 1542970043979,
+            "contentHash": "2b2609c61499ea6836a2ced2dd5198e504a53156",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Quantity.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Quantity.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1542970043980,
+            "changeTime": 1542970043980,
+            "contentHash": "77dc25ea3c52ebbff3421c0fbea04f9ed81e777d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/RootAssetId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/RootAssetId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 216,
+            "modifiedTime": 1542970043980,
+            "changeTime": 1542970043980,
+            "contentHash": "a19ab7a42a2fbd04714df62fc72da8269052205f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/SerialNumber.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/SerialNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1542970043980,
+            "changeTime": 1542970043980,
+            "contentHash": "26c272afb406fc4261227ee7ea9371923ee4305d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Status.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/Status.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 213,
+            "modifiedTime": 1542970043980,
+            "changeTime": 1542970043980,
+            "contentHash": "23e5de1fd2cf2e916194ba9f85d34369b0654309",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/StockKeepingUnit.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/StockKeepingUnit.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 158,
+            "modifiedTime": 1542970043980,
+            "changeTime": 1542970043980,
+            "contentHash": "cad0e335737920a613d4e83c70e8a1e637354728",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/UsageEndDate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Asset/fields/UsageEndDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1542970043981,
+            "changeTime": 1542970043981,
+            "contentHash": "f3b5d59145a60a4a9d4772469c474b2efadd7539",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542970043981,
+            "changeTime": 1542970043981,
+            "contentHash": "b3f63270b1ddbf789c278f0f1f40c41e1c119b31",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e/Sensor__e.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e/Sensor__e.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 275,
+            "modifiedTime": 1542970043981,
+            "changeTime": 1542970043981,
+            "contentHash": "a886f3a3ba8e6afc302a231d6e1b2063aa3e82e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1542970043982,
+            "changeTime": 1542970043982,
+            "contentHash": "79539eb3ed0a4d9c186e6454994962fb03bcd99f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e/fields/Power_Output__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e/fields/Power_Output__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 496,
+            "modifiedTime": 1542970043981,
+            "changeTime": 1542970043981,
+            "contentHash": "e4e995683128f28df89bf331654361420c46346e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e/fields/Serial_Number__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e/fields/Serial_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 468,
+            "modifiedTime": 1542970043982,
+            "changeTime": 1542970043982,
+            "contentHash": "288573841c27a9e8dd60b08a7db630d3256733a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e/fields/Status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/objects/Sensor__e/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 455,
+            "modifiedTime": 1542970043982,
+            "changeTime": 1542970043982,
+            "contentHash": "236da307b724b961a6747017cfadaa313a3482f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1542970043983,
+            "changeTime": 1542970043983,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22498,
+            "modifiedTime": 1542970043982,
+            "changeTime": 1542970043982,
+            "contentHash": "bafe528128a967b9d474921b2e40148e2d03d3e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8630,
+            "modifiedTime": 1542970043983,
+            "changeTime": 1542970043983,
+            "contentHash": "ca273b4383af55f65be558a717b97a7416b9d4e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8630,
+            "modifiedTime": 1542970043983,
+            "changeTime": 1542970043983,
+            "contentHash": "ca273b4383af55f65be558a717b97a7416b9d4e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8968,
+            "modifiedTime": 1542970043983,
+            "changeTime": 1542970043983,
+            "contentHash": "b3a76bc6ae8c34ce9a0aa02ed2f4295a085ac4f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/settings",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542970043983,
+            "changeTime": 1542970043983,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2632,
+            "modifiedTime": 1542970043983,
+            "changeTime": 1542970043983,
+            "contentHash": "a0cadba26057efa4350b58d02a7bcf1d669f020a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/iot_for_partners",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/iot_for_partners",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1562761947782,
+            "changeTime": 1562761947782,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
