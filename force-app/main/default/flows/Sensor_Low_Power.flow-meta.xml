@@ -54,58 +54,20 @@
     </actionCalls>
     <actionCalls>
         <processMetadataValues>
-            <name>postTarget</name>
-            <value>
-                <stringValue>Low Power Triage</stringValue>
-            </value>
-        </processMetadataValues>
-        <processMetadataValues>
-            <name>textJson</name>
-            <value>
-                <stringValue>{&quot;mentions&quot;:[],&quot;message&quot;:&quot;Asset {![Asset].Id} is reporting Low Power production&quot;}</stringValue>
-            </value>
-        </processMetadataValues>
-        <name>myRule_1_A1</name>
-        <label>Low Power Post</label>
-        <locationX>100</locationX>
-        <locationY>200</locationY>
-        <actionName>chatterPost</actionName>
-        <actionType>chatterPost</actionType>
-        <connector>
-            <targetReference>myRule_1_A2</targetReference>
-        </connector>
-        <inputParameters>
-            <name>text</name>
-            <value>
-                <stringValue>Asset {!myVariable_event_context.Id} is reporting Low Power production</stringValue>
-            </value>
-        </inputParameters>
-        <inputParameters>
-            <name>type</name>
-            <value>
-                <stringValue>GROUP</stringValue>
-            </value>
-        </inputParameters>
-        <inputParameters>
-            <name>subjectNameOrId</name>
-            <value>
-                <stringValue>0F90E000000D8vQSAS</stringValue>
-            </value>
-        </inputParameters>
-    </actionCalls>
-    <actionCalls>
-        <processMetadataValues>
             <name>apexSelection</name>
             <value>
                 <stringValue>Create Case Task</stringValue>
             </value>
         </processMetadataValues>
-        <name>myRule_1_A2</name>
+        <name>myRule_1_A1</name>
         <label>Create Task</label>
         <locationX>100</locationX>
-        <locationY>300</locationY>
+        <locationY>200</locationY>
         <actionName>CreateTask</actionName>
         <actionType>apex</actionType>
+        <connector>
+            <targetReference>myRule_1_A2</targetReference>
+        </connector>
         <inputParameters>
             <processMetadataValues>
                 <name>dataType</name>
@@ -191,6 +153,76 @@
             </value>
         </inputParameters>
     </actionCalls>
+    <actionCalls>
+        <processMetadataValues>
+            <name>textJson</name>
+            <value>
+                <stringValue>{&quot;mentions&quot;:[],&quot;message&quot;:&quot;Asset is in Low Power Mode!&quot;}</stringValue>
+            </value>
+        </processMetadataValues>
+        <name>myRule_1_A2</name>
+        <label>Post to Asset</label>
+        <locationX>100</locationX>
+        <locationY>300</locationY>
+        <actionName>chatterPost</actionName>
+        <actionType>chatterPost</actionType>
+        <connector>
+            <targetReference>myRule_1_A3</targetReference>
+        </connector>
+        <inputParameters>
+            <name>text</name>
+            <value>
+                <stringValue>Asset is in Low Power Mode!</stringValue>
+            </value>
+        </inputParameters>
+        <inputParameters>
+            <name>type</name>
+        </inputParameters>
+        <inputParameters>
+            <name>subjectNameOrId</name>
+            <value>
+                <elementReference>myVariable_event_context.Id</elementReference>
+            </value>
+        </inputParameters>
+    </actionCalls>
+    <actionCalls>
+        <processMetadataValues>
+            <name>postTarget</name>
+            <value>
+                <stringValue>Low Power Triage</stringValue>
+            </value>
+        </processMetadataValues>
+        <processMetadataValues>
+            <name>textJson</name>
+            <value>
+                <stringValue>{&quot;mentions&quot;:[],&quot;message&quot;:&quot;Asset: {![Asset].Id} is in Low Power Mode, please investigate!&quot;}</stringValue>
+            </value>
+        </processMetadataValues>
+        <name>myRule_1_A3</name>
+        <label>Post to Group</label>
+        <locationX>100</locationX>
+        <locationY>400</locationY>
+        <actionName>chatterPost</actionName>
+        <actionType>chatterPost</actionType>
+        <inputParameters>
+            <name>text</name>
+            <value>
+                <stringValue>Asset: {!myVariable_event_context.Id} is in Low Power Mode, please investigate!</stringValue>
+            </value>
+        </inputParameters>
+        <inputParameters>
+            <name>type</name>
+            <value>
+                <stringValue>GROUP</stringValue>
+            </value>
+        </inputParameters>
+        <inputParameters>
+            <name>subjectNameOrId</name>
+            <value>
+                <stringValue>0F9250000000dpfCAA</stringValue>
+            </value>
+        </inputParameters>
+    </actionCalls>
     <assignments>
         <name>RecordCountAssignment</name>
         <label>RecordCountAssignment</label>
@@ -273,7 +305,7 @@
                 <processMetadataValues>
                     <name>inputDataType</name>
                     <value>
-                        <stringValue>String</stringValue>
+                        <stringValue>Number</stringValue>
                     </value>
                 </processMetadataValues>
                 <processMetadataValues>
@@ -285,25 +317,25 @@
                 <processMetadataValues>
                     <name>leftHandSideType</name>
                     <value>
-                        <stringValue>String</stringValue>
+                        <stringValue>Number</stringValue>
                     </value>
                 </processMetadataValues>
                 <processMetadataValues>
                     <name>operatorDataType</name>
                     <value>
-                        <stringValue>String</stringValue>
+                        <stringValue>Number</stringValue>
                     </value>
                 </processMetadataValues>
                 <processMetadataValues>
                     <name>rightHandSideType</name>
                     <value>
-                        <stringValue>String</stringValue>
+                        <stringValue>Number</stringValue>
                     </value>
                 </processMetadataValues>
-                <leftValueReference>myVariable_myEvent.Status__c</leftValueReference>
-                <operator>EqualTo</operator>
+                <leftValueReference>myVariable_myEvent.Power_Output__c</leftValueReference>
+                <operator>LessThan</operator>
                 <rightValue>
-                    <stringValue>Low_Power_Process</stringValue>
+                    <numberValue>50.0</numberValue>
                 </rightValue>
             </conditions>
             <connector>
@@ -317,7 +349,7 @@
         <dataType>String</dataType>
         <expression>{!$Organization.Name}</expression>
     </formulas>
-    <interviewLabel>Sensor_Low_Power-2_InterviewLabel</interviewLabel>
+    <interviewLabel>Sensor_Low_Power-4_InterviewLabel</interviewLabel>
     <label>Sensor Low Power</label>
     <loops>
         <name>eventContextCheckLoop</name>
